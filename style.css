@@ -1,1 +1,1 @@
-.container { max-width: 600px; margin: auto; } .card { margin-bottom: 20px; }
+body.dark { background-color: #343a40; color: white; } .card { transition: background-color 0.3s, color 0.3s; } .rounded { border-radius: 0.5rem; }
