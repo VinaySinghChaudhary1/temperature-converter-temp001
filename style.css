@@ -1,1 +1,1 @@
-body.dark { background-color: #343a40; color: white; } .card { transition: background-color 0.3s, color 0.3s; } .rounded { border-radius: 0.5rem; }
+body.dark { background-color: #343a40; color: white; } body.light { background-color: white; color: black; } .rounded { border-radius: 0.5rem; } .card { transition: all 0.3s ease; }
